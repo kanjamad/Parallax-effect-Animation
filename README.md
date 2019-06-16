@@ -6,8 +6,8 @@ In this project I will use parallax effect Animation to build nice profile card 
 * Card will display nicely. 
 * Animate multiple background each layer is set to move different distances.
 * Start background the furthest layer in the back is moving slowest.
-* Then the start on top of that layer is moving a little bit faster.
-* The planet rolls a long it's moving faster then both of start layers.
+* Then the star on top of that layer is moving a little bit faster.
+* The planet rolls a long it's moving faster then both of star layers.
 * Cool 3D depth perception.
 
 * [Link to project hosted on Netlify](https://css-animate-card-profile.netlify.com/)
