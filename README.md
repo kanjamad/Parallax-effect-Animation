@@ -11,12 +11,13 @@ In this project I will use parallax effect Animation to build nice profile card 
 * Cool 3D depth perception.
 
 * [Link to project hosted on Netlify](https://css-animate-card-profile.netlify.com/)
+* [Link to project hosted on Github](https://github.com/kanjamad/Parallax-effect-Animation)
 
 ![website-gif](images/animate.gif "website-gif")
 
 ### Invisible-card repo:
 Modify this project by change background to be parallax effect Animation. 
-* [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
+* [Link to Invisible-card project hosted on Github](https://github.com/kanjamad/Invisible-Card)
 
 ### @keyframes rule
 @keyframes animate-background{ from {} to {} }
