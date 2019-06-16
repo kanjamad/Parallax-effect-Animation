@@ -13,9 +13,9 @@ body {
     height: 500px;
     margin: 0 auto;
     background-color: #000;
-    background-image: url(images/planet.png), url(images/stars2.png), url(images/star1.png);
-    background-position: 120% 70px, 0 0, 0 0;
-    background-repeat: no-repeat, repeat, repeat;
+    background-image: url(images/planet.png),url(images/rocket.png), url(images/stars2.png), url(images/star1.png);
+    background-position: 120% 70px, 60% 100px, 0 0, 0 0;
+    background-repeat: no-repeat, no-repeat, repeat, repeat;
     animation: animate-background linear 50s infinite ;
     -webkit-animation: animate-background linear 50s infinite ;
 }
@@ -27,9 +27,9 @@ body {
 
 @keyframes animate-background {
     from{
-        background-position: 120% 70px, 0 0, 0 0;
+        background-position: 120% 70px, 60% 100px, 0 0, 0 0;
     } to {
-        background-position: -20% 70px, -640px 0, -1000px 0;
+        background-position: -20% 70px, -1000px 0, -640px 0, -1000px 0;
     }
 }
 
