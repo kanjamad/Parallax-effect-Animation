@@ -1,7 +1,7 @@
 # Animation + Invisibal-Card
 In this project I will use parallax effect Animation to build nice profile card and have multiple background capabilities. Project will be built based on HTML and CSS.
 * Hover the astronaut image for 3s, 
-* So when the 1st transition of with color of box shadow end. 
+* So when the 1st transition of white color of box shadow end. 
 * Then after 0.5s the card will move down. 
 * Card will display nicely. 
 * Animate multiple background each layer is set to move different distances.
