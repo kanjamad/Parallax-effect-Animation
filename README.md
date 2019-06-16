@@ -10,7 +10,11 @@ In this project I will use parallax effect Animation to build nice profile card 
 * The planet rolls a long it's moving faster then both of start layers.
 * Cool 3D depth perception.
 
-### My Invisible-card repo:
+* [Link to project hosted on Netlify](https://css-animate-card-profile.netlify.com/)
+
+![website-gif](images/animate.gif "website-gif")
+
+### Invisible-card repo:
 Modify this project by change background to be parallax effect Animation. 
 * [Link to project hosted on Github](https://github.com/kanjamad/Invisible-Card)
 
@@ -43,6 +47,6 @@ animation: animate-background linear 50s infinite;
 
 ### Additional Resources
 1. <a href="https://www.kisspng.com/free/roket.html" target="_blank">images roket</a>
-1. <a href="https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp" target="_blank">CSS @keyframes Rule</a>
-1. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes" target="_blank">@keyframes</a>
+2. <a href="https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp" target="_blank">CSS @keyframes Rule</a>
+3. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes" target="_blank">@keyframes</a>
 
